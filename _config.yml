@@ -1,0 +1,6 @@
+# theme: jekyll-theme-minimal
+name: Jahi Grant
+title: Portfolio
+site_path: https://jahigrant.github.io/
+include: ['_projects']
+relative_permalinks: false
